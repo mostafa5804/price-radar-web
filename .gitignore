@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+*.rar
+*.db
+*.sqlite
+*.sqlite3
+__pycache__/
+backend/node_modules/
+backend/wrangler.toml
+backend/.dev.vars
